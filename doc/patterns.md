@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Climatological Patterns
+title: Patterns in Climatology
 description: Mio_Pi  vs  Mio_Mio
 ---
 
-## Surface Temperature in Climatology
+## Surface Temperature
