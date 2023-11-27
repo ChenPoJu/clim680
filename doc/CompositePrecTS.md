@@ -4,7 +4,7 @@ title: Composite Precipitation & Surface Temperature
 description: Based on Dust Indices
 ---
 > [!Note]
-> **Question**: What are the composite precipitation and surface temperature patterns when concentrations of dust are high or low in some regions (ex: Sahel)? 
+> **Question**: What are the composite precipitation and surface temperature patterns when concentrations of dust are high or low in some regions? 
 
 ## Detemining Dust indices
 * variable: BURDENDUST [kg/m2]
