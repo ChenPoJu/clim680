@@ -22,10 +22,12 @@ description: Mio_Pi  vs  Mio_Mio
 ## Cloud Fraction: Total/High/Low
 <img width="643" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/14883169-6182-4db1-b013-c7089a531453">
 
-<b>Increased High Cloud over west-coast of the North America: more shortwave influx
-<b>Decreased Low Cloud over west-coast of the North America: less blocking to the shortwave influx
-<b> --> consistent to the warming in the north-east Pacific
+* Increased High Cloud over west-coast of the North America: more shortwave influx
+* Decreased Low Cloud over west-coast of the North America: less blocking to the shortwave influx
+
+<b>--> consistent to the warming in the north-east Pacific
+
 
 <iframe src="https://nbviewer.org/github/ChenPoJu/clim680_project/blob/master/Assignment3/plot_3_composite.ipynb" width="800" height="600"></iframe>
 
-[Main Context](./)
+[Main Context](../)
