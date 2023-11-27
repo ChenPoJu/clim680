@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Composite Precipitation and Surface Temperature
+title: Composite Precipitation & Surface Temperature (TS)
 description: Based on Dust Indices
 ---
 
