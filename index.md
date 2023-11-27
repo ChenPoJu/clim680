@@ -31,3 +31,5 @@
 * Composite: 
 1. What does precipitation and surface temperature patterns look like when concentrations of dust or aerosols are high or low in some regions (ex: Sahel)? 
 2. ENSO in Miocene simulations. (Oldeman et al. 2021; Pontes et al. 2022) – ENSO in Pliocene
+<iframe src="https://github.com/ChenPoJu/clim680_project/blob/master/Assignment3/plot_3_composite.ipynb" width="800" height="600"></iframe>
+
