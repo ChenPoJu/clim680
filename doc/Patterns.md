@@ -8,6 +8,8 @@ description: Mio_Pi  vs  Mio_Mio
 
 <b>Caveat: We cannot attribute the responses of surface temperature to dust or specific species of aerosols 
 
+* Variables comparison: TS, Net flux (SRF, TOA), Precipitation, Cloud Fraction, AOD…
+
 ## Net Flux at TOA
 * (Shortwave - Longwave): Downward Net Flux at TOA
 
