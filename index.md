@@ -3,7 +3,7 @@ layout: default
 title: CLIM-680 project
 description: Po Ju Chen
 ---
-## The importance of modifying aerosols in Miocene Simulations
+# The importance of modifying aerosols in Miocene Simulations
 
 ### Motivation
 1. Past climate states are different from today and provide evidences of how climate processes operated across states that span the range of $CO_2$ concentrations (400~2000 ppm) associated with future emissions scenarios. (Tierney et al. 2020)
@@ -15,8 +15,8 @@ description: Po Ju Chen
    - Pre-industrial aerosols are prescribed in their simulations
 
 4. The research in Miocene, an epoch when the earth had higher $CO_2$ concentration, less ice sheet, and larger continental greening than Pliocene, is still in progress.
-   * What are the dust and aerosols effects in Miocene simulations?
-   * Whether the modification of prescribed aerosols is critical in paleoclimate simulations?
+   * _What are the dust and aerosols effects in Miocene simulations?_
+   * _Whether the modification of prescribed aerosols is critical in paleoclimate simulations?_
 
 ### Experimental Design
 
@@ -25,11 +25,7 @@ description: Po Ju Chen
 ![image.png](attachment:ceee900f-5b31-4bef-a63d-5060403018e5.png) ![image.png](attachment:8bd9debb-e7a0-46da-8c77-5f57a43129b5.png)
 
 * Modified aerosols in our cases
-
-### Preliminary Results
-![image.png](attachment:80a647af-bb9e-4a46-a61d-2afbe1b1aecd.png)
-
-<b>Caveat: We cannot attribute the responses of surface temperature to dust or specific species of aerosols 
+1. DMS modification (Mio_Pi v.s. Mio_Mio)
 
 ### Results & Code Description
 * [Patterns in Climatology](./doc/Patterns.html)
