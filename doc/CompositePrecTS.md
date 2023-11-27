@@ -1,4 +1,4 @@
-<img width="655" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/1a85c327-5b41-4094-847e-88a2e220b14b">---
+---
 layout: default
 title: Composite Precipitation & Surface Temperature
 description: Based on Dust Indices
