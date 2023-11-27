@@ -32,8 +32,8 @@ description: Po Ju Chen
 <b>Caveat: We cannot attribute the responses of surface temperature to dust or specific species of aerosols 
 
 ### Results & Code Description
-* [Climatological Patterns](./doc/patterns.html)
-* [Composite Precipitation & TS based on Dust Indices](./doc/composite_PresTS.html)
+* [Patterns in Climatology](./doc/patterns.html)
+* [Composite Precipitation & TS based on Dust Indices](./doc/composite_PrecTS.html)
 
 * Variables comparison: TS, Net flux (SRF, TOA), Precipitation, Cloud Fraction, AOD…
 * Composite: 
