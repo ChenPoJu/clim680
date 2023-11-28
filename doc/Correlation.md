@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Correlation Map
-description: Dust Indices & Precipitation
+title: Correlation
+description: Dust Indices  v.s.  Precipitation
 ---
 ## Dust Indices
