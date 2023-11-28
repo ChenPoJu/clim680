@@ -6,12 +6,12 @@ description: Based on Dust Indices
 > **Question**: What are the composite precipitation and surface temperature patterns when concentrations of dust are high or low in some regions? 
 
 ## Detemining Dust indices
-* variable: BURDENDUST [kg/m2]
+* variable: BURDENDUST [kg/m<sup>2</sup> ]
   - Dust aerosol burden --- total concentration of dust per meter square over a grid
 <img width="612" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/df4cd4f7-da8a-47ac-972f-8a818d58a46b">
 
 ## Defining High/Low Dust months
-* **(High / Low)**: the months when the amount of dust is over / under 2 times standard deviation
+* **(High / Low)**: the months when the amount of dust is **over / under** 2 times standard deviation
 <img width="780" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/cf2253e0-bf66-477b-a567-a42bfed43b3f">
 
 * Modifying Input Dust in Mio_Mio increases the variation of dust concentration over the regions of index1 & index2, but decreases the variation of index3
