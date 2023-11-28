@@ -11,21 +11,21 @@ description: Mio_Pi  vs  Mio_Mio
 
 ## Net Flux at TOA
 * (Shortwave - Longwave): Downward Net Flux at TOA
-<img width="612" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/61b87d93-64d9-4857-8dc7-16d86ed7082b">
+<img width="756" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/61b87d93-64d9-4857-8dc7-16d86ed7082b">
 
 ## Net Flux at Surface
 * (Shortwave - Longwave - Latent Heat - Sensible Heat): Downward Net Flux at Surface
-<img width="612" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/f1195608-bd08-4897-86d4-32153c779b62">
+<img width="756" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/f1195608-bd08-4897-86d4-32153c779b62">
 
 <b>Increased TOA Net flux & Decreased Surface Net flux over west-coast of the North America
 
 ## Cloud Fraction: Total/High/Low
-<img width="643" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/14883169-6182-4db1-b013-c7089a531453">
+<img width="700" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/14883169-6182-4db1-b013-c7089a531453">
 
-* Increased High Cloud over west-coast of the North America: _more shortwave influx_
-* Decreased Low Cloud over west-coast of the North America: _less blocking to the shortwave influx_
+* Increased High Cloud over west-coast of the North America:  _more shortwave influx_
+* Decreased Low Cloud over west-coast of the North America:  _less blocking to the shortwave influx_
 
-<b>  -> consistent with the warming in the north-east Pacific
+<b>consistent with the warming in the north-east Pacific
 
 
 <iframe src="https://nbviewer.org/github/ChenPoJu/clim680_project/blob/master/Project/Climatology_Patterns.ipynb" width="800" height="600"></iframe>
