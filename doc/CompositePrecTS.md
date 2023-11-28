@@ -22,7 +22,7 @@ description: Based on Dust Indices
 
 * consistent decreased/increased precipitation during the months when dust is high/low (except: index 3)
 
-### (2) Temperature (TS)
+### (2) Surface Temperature (TS)
 <img width="646" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/00fa0d39-ae94-4f8a-ba55-e27c24777ce2">
 
 * consistent warming/cooling during the months when dust is high/low (except: index3)
