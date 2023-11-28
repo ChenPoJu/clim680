@@ -29,4 +29,5 @@ description: Based on Dust Indices
 
 <iframe src="https://nbviewer.org/github/ChenPoJu/clim680_project/blob/master/Project/Dust_composite_PrecTS.ipynb" width="800" height="600"></iframe>
 
+[Correlation Dust & Precipitation](./Correlation.html)
 [Main Context](../)
