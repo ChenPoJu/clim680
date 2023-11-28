@@ -18,7 +18,7 @@ description: Po Ju Chen
 
 (1) _What are the dust and aerosols effects in Miocene simulations?_
 
-(2) _Whether the modification of prescribed aerosols is critical in paleoclimate simulations?_
+(2) _Whether the modification of prescribed dust and aerosols emissions are critical in paleoclimate simulations?_
 
 ### Experimental Design
 <img width="982" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/82ab9d72-0028-4a83-bd6d-ea9298253986">
