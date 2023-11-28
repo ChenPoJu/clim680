@@ -34,4 +34,4 @@ The assignment investigates the ENSO in Miocene simulations. Although the purpos
 
 <iframe src="https://nbviewer.org/github/ChenPoJu/clim680_project/blob/master/Assignment3/plot_3_composite.ipynb" width="800" height="600"></iframe>
 
-[Main Context](./)
+[Main Context](../)
