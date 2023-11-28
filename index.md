@@ -15,8 +15,9 @@ description: Po Ju Chen
    - Pre-industrial aerosols are prescribed in their simulations
 
 4. The research in Miocene, an epoch when the earth had higher CO2 concentration, less ice sheet, and larger continental greening than Pliocene, is still in progress.
-   (1) _What are the dust and aerosols effects in Miocene simulations?_
-   (2) _Whether the modification of prescribed aerosols is critical in paleoclimate simulations?_
+
+(1) _What are the dust and aerosols effects in Miocene simulations?_
+(2) _Whether the modification of prescribed aerosols is critical in paleoclimate simulations?_
 
 ### Experimental Design
 <img width="982" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/82ab9d72-0028-4a83-bd6d-ea9298253986">
@@ -25,6 +26,7 @@ description: Po Ju Chen
 <img width="323" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/ad88578d-5eaf-4600-b972-0a0622443da7">
 
 * Modified aerosols in our cases
+
 1. DMS modification (Mio_Pi v.s. Mio_Mio)
 <img width="634" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/d441dfdc-f4af-419b-ad25-2d0779ea7ef3">
 
@@ -39,7 +41,7 @@ description: Po Ju Chen
 * [Patterns in Climatology](./doc/Patterns.html)
 * [Composite Precipitation & TS based on Dust Indices](./doc/CompositePrecTS.html)
 * [Correlation Dust & Precipitation](./doc/Correlation.html)
-* [Composite Aerosols](./doc/CompositeAerosols.html)
+* [Composite Aerosols based on Dust Indices](./doc/CompositeAerosols.html)
 * [ENSO in Miocene simulations](./doc/ENSO.html)
 
 ### Summary
