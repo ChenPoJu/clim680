@@ -4,19 +4,30 @@ title: Patterns in Climatology
 description: Mio_Pi  vs  Mio_Mio
 ---
 ## Surface Temperature
-![image.png](attachment:80a647af-bb9e-4a46-a61d-2afbe1b1aecd.png)
+<img width="756" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/b9eaa2e8-bda1-470d-982c-14f2785252c6">
 
 <b>Caveat: We cannot attribute the responses of surface temperature to dust or specific species of aerosols 
-
-* Variables comparison: TS, Net flux (SRF, TOA), Precipitation, Cloud Fraction, AOD…
+> **Variables comparison: TS, Net flux (SRF, TOA), Cloud Fraction**
 
 ## Net Flux at TOA
 * (Shortwave - Longwave): Downward Net Flux at TOA
-
+<img width="756" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/61b87d93-64d9-4857-8dc7-16d86ed7082b">
 
 ## Net Flux at Surface
 * (Shortwave - Longwave - Latent Heat - Sensible Heat): Downward Net Flux at Surface
+<img width="756" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/f1195608-bd08-4897-86d4-32153c779b62">
 
+<b>Increased TOA Net flux & Decreased Surface Net flux over west-coast of the North America
 
 ## Cloud Fraction: Total/High/Low
+<img width="700" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/14883169-6182-4db1-b013-c7089a531453">
 
+* Increased High Cloud over west-coast of the North America:  _more shortwave influx_
+* Decreased Low Cloud over west-coast of the North America:  _less blocking to the shortwave influx_
+
+<b>consistent with the warming in the north-east Pacific
+
+
+<iframe src="https://nbviewer.org/github/ChenPoJu/clim680_project/blob/master/Project/Climatology_Patterns.ipynb" width="800" height="600"></iframe>
+
+[Main Context](../)
