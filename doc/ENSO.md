@@ -29,7 +29,7 @@ The assignment investigates the ENSO in Miocene simulations. Although the purpos
 <img width="480" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/aaafae5e-6ce8-47da-8b87-79a59493a3fc">
 <img width="650" alt="image" src="https://github.com/ChenPoJu/clim680_project/assets/142943588/8de5e5c0-c578-41be-8f55-70ad31dc84e5">
 
-> [!CAUTION]
+
 > **Caveat**: the variation of ENSO could be different in different segment of time series you choose. (Burls & Fedorov 2014)
 
 <iframe src="https://nbviewer.org/github/ChenPoJu/clim680_project/blob/master/Assignment3/plot_3_composite.ipynb" width="800" height="600"></iframe>
