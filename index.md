@@ -57,4 +57,10 @@ description: Po Ju Chen
    - Or, the dust concentration is partially modulated by precipitation
 4. Composite patterns of Black Carbon could partially explain the composite precipitation and TS, but the composite sulfate cannot.
 
+### Future Work
+The project is still in progress. We are designing another experiment that could more purely indicate the importance of modifying dust emission in Miocene Simulations. 
+1. determine the species and concentration of dust that will be prescribed in the new experiment.
+2. spin up an experiment with nudged dust concentration
+
+
 #### [Reference](./doc/Reference.html)
