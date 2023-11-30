@@ -6,7 +6,7 @@ description: Po Ju Chen
 # The importance of modifying aerosols in Miocene Simulations
 
 ### Motivation
-1. Past climate states are different from today and provide evidences of how climate processes operated across states that span the range of CO<sub>2</sub>  concentrations (400~2000 ppm) associated with future emissions scenarios. _(Tierney et al. 2020)_
+1. Past climate states are different from nowadays but provide evidences of climate processes across states under different scenarios of CO<sub>2</sub> concentrations (400~2000 ppm), offering hints and possibilities of future concentration scenarios. _(Tierney et al. 2020)_
 
 2. The latest generation of climate models with state-of-the-art parameterizations of cloud micro-physics and cloud-aerosol interactions raised the issue of dust and aerosol effects in Paleoclimate simulation. _(Sagoo & Storelvmo, 2017)_
 
